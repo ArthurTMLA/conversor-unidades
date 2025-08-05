@@ -45,23 +45,21 @@ Para qual unidade de medida deseja transformar esse valor? (utilize apenas a sig
 Saída:
 
 ❌ Unidade de medida inválida! Use apenas: KM, HM, DAM, M, DM, CM ou MM.
-
+```
 📚 Aprendizados
 
 Com este projeto, pratiquei:
 
-    Entrada e saída de dados em Python (input() e print())
+Entrada e saída de dados em Python (input() e print())
 
-    Estruturas condicionais (if, elif, else)
+Estruturas condicionais (if, elif, else)
 
-    Formatação de números com casas decimais (f-strings)
+Formatação de números com casas decimais (f-strings)
 
-    Tratamento de entradas inválidas
+Tratamento de entradas inválidas
 
 🚀 Próximos Passos
 
-    Criar uma versão que converte automaticamente para todas as unidades.
+Criar uma interface gráfica com Tkinter ou versão web com Flask.
 
-    Criar uma interface gráfica com Tkinter ou versão web com Flask.
-
-Feito por Arthur Santos 👩‍💻
+**Feito por Arthur Santos** 👩‍💻
